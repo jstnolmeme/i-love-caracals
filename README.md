@@ -1,4 +1,4 @@
-# Assn 3 :3
+# Assn 3
 
 ## 1. Objectives:
 On completion of this assignment a student should be able to write a Java application that:
